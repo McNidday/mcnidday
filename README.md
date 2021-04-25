@@ -5,7 +5,7 @@ I am Nidday Mark, a web developer who is interested in working on cool new websi
 ## 🔭 My Expertise
 - Frontend development: React, Webpack, Vanilla Javascript
 - Backend development: GraphQl, Nodejs, Express, Multa, Mongoose/Mongodb
-- Automated testing: Sinon, Chai, Mocha
+- Automated testing: Sinon, Chai, Mocha, Jest
 - CICD Tools: Heroku, Gitlab, Github Actions
 ## 🌱 I’m currently learning
 - Typescript
