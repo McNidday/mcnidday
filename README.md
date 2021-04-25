@@ -13,7 +13,7 @@ I am Nidday Mark, a web developer who is interested in working on cool new websi
 - Algorithms, Math and Machines
 ## 👯 I’m looking to collaborate on
 - New cool ideas
-- Existing Projcts under maintainance and evolving
+- Existing Projects under maintainance and evolving
 ## 🤔 I’m looking for help with
 - Calculus 🤣
 ## 💬 Ask me about
