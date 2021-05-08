@@ -30,4 +30,4 @@ I am Nidday Mark, a web developer who is interested in working on cool new websi
 - I lived in a forest for 1 year
 - I built Kenya Gaming Arena for 1 year
 - I am learning calculus through google
-- My mentors are Kaligraph Jones & Bob Collymore
+- My mentors are Bill Burr, Simon Sinek, Kaligraph Jones & Bob Collymore
