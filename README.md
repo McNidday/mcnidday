@@ -3,7 +3,7 @@
 I am Nidday Mark, a web developer who is interested in working on cool new website ideas, web games and automation. I encourage the use of automation whenever possible and i think everything can be automated such as testing for better code quality, transactions and insane jobs. I want to share everything i know about web development and learn new ideas and implementation from others. I like building small and large applications, CICD, setup different tools and document everything on github.
 
 ## 🔭 My Expertise
-- Frontend development: React, Webpack, Vanilla Javascript
+- Frontend development: React, NextJs, Webpack, Vanilla Javascript
 - Backend development: GraphQl, Nodejs, Express, Multa, Mongoose/Mongodb
 - Automated testing: Sinon, Chai, Mocha, Jest
 - CICD Tools: Heroku, Gitlab, Github Actions
